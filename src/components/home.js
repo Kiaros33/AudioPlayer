@@ -115,16 +115,25 @@ class Home extends PureComponent {
 
     onEndedHandler = (current,indicator) => {
         const arr = this.props.music.musicList;
-        for (let i = 0; i < arr.length; i++) {
-            if (current === arr[i].href) {
-                if (i+indicator >= arr.length) {
-                    this.togglePlay(arr[0])
-                }
-                else if (i+indicator < 0) {
-                    this.togglePlay(arr[arr.length-1])
-                }
-                else {
-                    this.togglePlay(arr[i+indicator])
+        if (arr.length === 1) {
+            this.setState({
+                playing: true
+            });
+            this.mPlayer.current.currentTime = 0;
+            this.mPlayer.current.play();
+        }
+        else{
+            for (let i = 0; i < arr.length; i++) {
+                if (current === arr[i].href) {
+                    if (i+indicator >= arr.length) {
+                        this.togglePlay(arr[0])
+                    }
+                    else if (i+indicator < 0) {
+                        this.togglePlay(arr[arr.length-1])
+                    }
+                    else {
+                        this.togglePlay(arr[i+indicator])
+                    }
                 }
             }
         }

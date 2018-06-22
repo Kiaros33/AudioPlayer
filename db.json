@@ -23,7 +23,7 @@
     },
     {
       "href": "http://sampleswap.org/mp3/artist/31211/Crash-Boom-Kapow_Over-Paris-A-Balloo-160.mp3",
-      "artist": "Crash! Boom! Kapow!: ",
+      "artist": "crashboomkapow: ",
       "song": "Over-Paris-A-Balloo",
       "duration": 267.781224,
       "id": 3
@@ -101,14 +101,14 @@
     {
       "href": "http://sampleswap.org/mp3/artist/33974/ANTANAS_Eastern-World-by-ANTANAS-160.mp3",
       "artist": "ANTANAS: ",
-      "song": "Eastern-World-by-ANTANAS",
+      "song": "Eastern-World",
       "duration": 194.586122,
       "id": 14
     },
     {
       "href": "http://sampleswap.org/mp3/artist/33974/ANTANAS_Timeless-Discovery-by-ANTANA-160.mp3",
       "artist": "ANTANAS: ",
-      "song": "Timeless-Discovery-by-ANTANA",
+      "song": "Timeless-Discovery",
       "duration": 314.88,
       "id": 15
     },
@@ -226,7 +226,7 @@
     },
     {
       "href": "http://sampleswap.org/mp3/artist/52807/magdan-Daniel-Racine_SaisToujoursPas-160.mp3",
-      "artist": "magdan (Daniel Racine): ",
+      "artist": "magdan: ",
       "song": "SaisToujoursPas",
       "duration": 200.150204,
       "id": 32
@@ -296,7 +296,7 @@
     },
     {
       "href": "http://sampleswap.org/mp3/artist/24370/NO-ID-DION-LEE_INVASIONTHENFLEEING-T-160.mp3",
-      "artist": "NO ID (DION LEE): ",
+      "artist": "DION LEE: ",
       "song": "INVASIONTHENFLEEING-T",
       "duration": 366.027755,
       "id": 42
@@ -652,46 +652,39 @@
       "id": 92
     },
     {
-      "href": "http://sampleswap.org/mp3/artist/139395/conesto412_strangest-places-160.mp3",
-      "artist": "conesto412: ",
-      "song": "strangest-places",
-      "duration": 44.512653,
-      "id": 93
-    },
-    {
       "href": "http://sampleswap.org/mp3/artist/92760/CJ_Sweet-Sadness-160.mp3",
       "artist": "CJ: ",
       "song": "Sweet-Sadness",
       "duration": 392.777143,
-      "id": 94
+      "id": 93
     },
     {
       "href": "http://sampleswap.org/mp3/artist/92760/CJ_Visions-of-the-Future-Drone-Zone--160.mp3",
       "artist": "CJ: ",
       "song": "Visions-of-the-Future-Drone-Zone-",
       "duration": 397.061224,
-      "id": 95
+      "id": 94
     },
     {
       "href": "http://sampleswap.org/mp3/artist/92760/CJ_When-Darkness-takes-the-Day-160.mp3",
       "artist": "CJ: ",
       "song": "When-Darkness-takes-the-Day",
       "duration": 329.822041,
-      "id": 96
+      "id": 95
     },
     {
       "href": "http://sampleswap.org/mp3/artist/143479/emilsir_test-160.mp3",
       "artist": "emilsir: ",
       "song": "test",
       "duration": 20.166531,
-      "id": 97
+      "id": 96
     },
     {
       "href": "http://sampleswap.org/mp3/artist/92760/CJ_9-11-Severe-Trauma-160.mp3",
       "artist": "CJ: ",
       "song": "9-11-Severe-Trauma",
       "duration": 360.228571,
-      "id": 98
+      "id": 97
     }
   ]
 }
