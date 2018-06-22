@@ -1,0 +1,697 @@
+{
+  "tracks": [
+    {
+      "href": "http://sampleswap.org/mp3/artist/28165/harvestfred_-PRIMAVARA--160.mp3",
+      "artist": "harvestfred: ",
+      "song": "-PRIMAVARA-",
+      "duration": 282.174694,
+      "id": 0
+    },
+    {
+      "href": "http://sampleswap.org/mp3/artist/5101/Peppy--The-Firing-Squad_YMXB-160.mp3",
+      "artist": "Peppy &amp; The Firing Squad: ",
+      "song": "YMXB",
+      "duration": 202.057143,
+      "id": 1
+    },
+    {
+      "href": "http://sampleswap.org/mp3/artist/31211/crashboomkapow_94-160.mp3",
+      "artist": "crashboomkapow: ",
+      "song": "94",
+      "duration": 300.042449,
+      "id": 2
+    },
+    {
+      "href": "http://sampleswap.org/mp3/artist/31211/Crash-Boom-Kapow_Over-Paris-A-Balloo-160.mp3",
+      "artist": "Crash! Boom! Kapow!: ",
+      "song": "Over-Paris-A-Balloo",
+      "duration": 267.781224,
+      "id": 3
+    },
+    {
+      "href": "http://sampleswap.org/mp3/artist/31283/palomo_sous-la-peau-160.mp3",
+      "artist": "palomo: ",
+      "song": "sous-la-peau",
+      "duration": 139.702857,
+      "id": 4
+    },
+    {
+      "href": "http://sampleswap.org/mp3/artist/20409/belabar_Orient6-160.mp3",
+      "artist": "bela.bar: ",
+      "song": "Orient6",
+      "duration": 202.083265,
+      "id": 5
+    },
+    {
+      "href": "http://sampleswap.org/mp3/artist/20409/belabar_Sunny9-160.mp3",
+      "artist": "bela.bar: ",
+      "song": "Sunny9",
+      "duration": 257.38449,
+      "id": 6
+    },
+    {
+      "href": "http://sampleswap.org/mp3/artist/20409/belabar_Dark8-160.mp3",
+      "artist": "bela.bar: ",
+      "song": "Dark8",
+      "duration": 152.633469,
+      "id": 7
+    },
+    {
+      "href": "http://sampleswap.org/mp3/artist/29444/ALIEN-REd-WOLf_Old-War-Feline-160.mp3",
+      "artist": "ALIEN REd WOLf: ",
+      "song": "Old-War-Feline",
+      "duration": 219.480816,
+      "id": 8
+    },
+    {
+      "href": "http://sampleswap.org/mp3/artist/25093/Mark-Phillips_Annas-Logbook2-160.mp3",
+      "artist": "Mark Phillips: ",
+      "song": "Annas-Logbook2",
+      "duration": 224.548571,
+      "id": 9
+    },
+    {
+      "href": "http://sampleswap.org/mp3/artist/733/Thrystero_Diagonal-160.mp3",
+      "artist": "Thrystero: ",
+      "song": "Diagonal",
+      "duration": 245.629388,
+      "id": 10
+    },
+    {
+      "href": "http://sampleswap.org/mp3/artist/6536/Seed-AI_2D-160.mp3",
+      "artist": "Seed A.I.: ",
+      "song": "2D",
+      "duration": 333.270204,
+      "id": 11
+    },
+    {
+      "href": "http://sampleswap.org/mp3/artist/27241/Steveb24_Empty-With-Such-Fullness-160.mp3",
+      "artist": "Steveb24: ",
+      "song": "Empty-With-Such-Fullness",
+      "duration": 314.044082,
+      "id": 12
+    },
+    {
+      "href": "http://sampleswap.org/mp3/artist/6510/Shinichi_408-in-the-morning-160.mp3",
+      "artist": "Shinichi: ",
+      "song": "408-in-the-morning",
+      "duration": 305.057959,
+      "id": 13
+    },
+    {
+      "href": "http://sampleswap.org/mp3/artist/33974/ANTANAS_Eastern-World-by-ANTANAS-160.mp3",
+      "artist": "ANTANAS: ",
+      "song": "Eastern-World-by-ANTANAS",
+      "duration": 194.586122,
+      "id": 14
+    },
+    {
+      "href": "http://sampleswap.org/mp3/artist/33974/ANTANAS_Timeless-Discovery-by-ANTANA-160.mp3",
+      "artist": "ANTANAS: ",
+      "song": "Timeless-Discovery-by-ANTANA",
+      "duration": 314.88,
+      "id": 15
+    },
+    {
+      "href": "http://sampleswap.org/mp3/artist/26069/life-in-a-box_kalamata3-160.mp3",
+      "artist": "life in a box: ",
+      "song": "kalamata3",
+      "duration": 264.280816,
+      "id": 16
+    },
+    {
+      "href": "http://sampleswap.org/mp3/artist/25401/musiman_End-of-the-glacier-160.mp3",
+      "artist": "musiman: ",
+      "song": "End-of-the-glacier",
+      "duration": 238.132245,
+      "id": 17
+    },
+    {
+      "href": "http://sampleswap.org/mp3/artist/36239/LEE423_Violent-Vortex-160.mp3",
+      "artist": "LEE423: ",
+      "song": "Violent-Vortex",
+      "duration": 250.044082,
+      "id": 18
+    },
+    {
+      "href": "http://sampleswap.org/mp3/artist/37080/audiophyla_valve-160.mp3",
+      "artist": "audiophyla: ",
+      "song": "valve",
+      "duration": 374.569796,
+      "id": 19
+    },
+    {
+      "href": "http://sampleswap.org/mp3/artist/19402/the19thbear_birds-full-version-160.mp3",
+      "artist": "the19thbear: ",
+      "song": "birds-full-version",
+      "duration": 285.204898,
+      "id": 20
+    },
+    {
+      "href": "http://sampleswap.org/mp3/artist/26069/fadortel_E-volve-160.mp3",
+      "artist": "fadortel: ",
+      "song": "E-volve",
+      "duration": 389.720816,
+      "id": 21
+    },
+    {
+      "href": "http://sampleswap.org/mp3/artist/47067/DJ-Masque_No-Place-160.mp3",
+      "artist": "DJ Masque: ",
+      "song": "No-Place",
+      "duration": 231.88898,
+      "id": 22
+    },
+    {
+      "href": "http://sampleswap.org/mp3/artist/47067/DJ-Masque_Umrun-160.mp3",
+      "artist": "DJ Masque: ",
+      "song": "Umrun",
+      "duration": 231.88898,
+      "id": 23
+    },
+    {
+      "href": "http://sampleswap.org/mp3/artist/47067/DJ-Masque_Oceanic-Dawn-160.mp3",
+      "artist": "DJ Masque: ",
+      "song": "Oceanic-Dawn",
+      "duration": 225.933061,
+      "id": 24
+    },
+    {
+      "href": "http://sampleswap.org/mp3/artist/4233/Chuck-Parsons_2-28-07-160.mp3",
+      "artist": "Chuck Parsons: ",
+      "song": "2-28-07",
+      "duration": 186.932245,
+      "id": 25
+    },
+    {
+      "href": "http://sampleswap.org/mp3/artist/4233/Chuck-Parsons_12-31-06-160.mp3",
+      "artist": "Chuck Parsons: ",
+      "song": "12-31-06",
+      "duration": 370.155102,
+      "id": 26
+    },
+    {
+      "href": "http://sampleswap.org/mp3/artist/46001/sample-cd_cut-me-again-160.mp3",
+      "artist": "sample cd: ",
+      "song": "cut-me-again",
+      "duration": 270.393469,
+      "id": 27
+    },
+    {
+      "href": "http://sampleswap.org/mp3/artist/51762/RaptureOfTheDeep_Amberant-160.mp3",
+      "artist": "RaptureOfTheDeep: ",
+      "song": "Amberant",
+      "duration": 150.021224,
+      "id": 28
+    },
+    {
+      "href": "http://sampleswap.org/mp3/artist/52044/RussDodson_Open-Heart-Surgery-2-mix--160.mp3",
+      "artist": "RussDodson: ",
+      "song": "Open-Heart-Surgery-2-mix-",
+      "duration": 105.06449,
+      "id": 29
+    },
+    {
+      "href": "http://sampleswap.org/mp3/artist/2590/steve_counting-sheep-01-160.mp3",
+      "artist": "steve: ",
+      "song": "counting-sheep-01",
+      "duration": 222.589388,
+      "id": 30
+    },
+    {
+      "href": "http://sampleswap.org/mp3/artist/55150/BlueAttack_Emotions-160.mp3",
+      "artist": "BlueAttack: ",
+      "song": "Emotions",
+      "duration": 225.933061,
+      "id": 31
+    },
+    {
+      "href": "http://sampleswap.org/mp3/artist/52807/magdan-Daniel-Racine_SaisToujoursPas-160.mp3",
+      "artist": "magdan (Daniel Racine): ",
+      "song": "SaisToujoursPas",
+      "duration": 200.150204,
+      "id": 32
+    },
+    {
+      "href": "http://sampleswap.org/mp3/artist/51762/RaptureOfTheDeep_triple-160.mp3",
+      "artist": "RaptureOfTheDeep: ",
+      "song": "triple",
+      "duration": 155.167347,
+      "id": 33
+    },
+    {
+      "href": "http://sampleswap.org/mp3/artist/52807/magdan_Albinos-noir-160.mp3",
+      "artist": "magdan: ",
+      "song": "Albinos-noir",
+      "duration": 108.329796,
+      "id": 34
+    },
+    {
+      "href": "http://sampleswap.org/mp3/artist/63713/wceditor_thunder-road-v1-160.mp3",
+      "artist": "wceditor: ",
+      "song": "thunder-road-v1",
+      "duration": 298.057143,
+      "id": 35
+    },
+    {
+      "href": "http://sampleswap.org/mp3/artist/52807/Daniel-Racine_Leon-160.mp3",
+      "artist": "Daniel Racine: ",
+      "song": "Leon",
+      "duration": 192.313469,
+      "id": 36
+    },
+    {
+      "href": "http://sampleswap.org/mp3/artist/2/canton_Benbient-160.mp3",
+      "artist": "canton: ",
+      "song": "Benbient",
+      "duration": 462.053878,
+      "id": 37
+    },
+    {
+      "href": "http://sampleswap.org/mp3/artist/71727/Musiki_The-Complete-Recovering-of-Fi-160.mp3",
+      "artist": "Musiki: ",
+      "song": "The-Complete-Recovering-of-Fi",
+      "duration": 348.395102,
+      "id": 38
+    },
+    {
+      "href": "http://sampleswap.org/mp3/artist/74443/New-Army_You-Have-It-In-You-160.mp3",
+      "artist": "New Army: ",
+      "song": "You-Have-It-In-You",
+      "duration": 269.531429,
+      "id": 39
+    },
+    {
+      "href": "http://sampleswap.org/mp3/artist/15785/robbot_AMBIENT-RNB-REX-160.mp3",
+      "artist": "robbot: ",
+      "song": "AMBIENT-RNB-REX",
+      "duration": 399.438367,
+      "id": 40
+    },
+    {
+      "href": "http://sampleswap.org/mp3/artist/77858/Fodder2008_Synth-Power-160.mp3",
+      "artist": "Fodder2008: ",
+      "song": "Synth-Power",
+      "duration": 343.902041,
+      "id": 41
+    },
+    {
+      "href": "http://sampleswap.org/mp3/artist/24370/NO-ID-DION-LEE_INVASIONTHENFLEEING-T-160.mp3",
+      "artist": "NO ID (DION LEE): ",
+      "song": "INVASIONTHENFLEEING-T",
+      "duration": 366.027755,
+      "id": 42
+    },
+    {
+      "href": "http://sampleswap.org/mp3/artist/83958/oldboya_All-the-things-Ive-done-wron-160.mp3",
+      "artist": "oldboya: ",
+      "song": "All-the-things-Ive-done-wron",
+      "duration": 101.041633,
+      "id": 43
+    },
+    {
+      "href": "http://sampleswap.org/mp3/artist/83958/oldboya_Thirty-six-bells-160.mp3",
+      "artist": "oldboya: ",
+      "song": "Thirty-six-bells",
+      "duration": 95.869388,
+      "id": 44
+    },
+    {
+      "href": "http://sampleswap.org/mp3/artist/83958/oldboya_audio-two--160.mp3",
+      "artist": "oldboya: ",
+      "song": "audio-two-",
+      "duration": 124.05551,
+      "id": 45
+    },
+    {
+      "href": "http://sampleswap.org/mp3/artist/84839/allizwell_Open-Minds-160.mp3",
+      "artist": "allizwell: ",
+      "song": "Open-Minds",
+      "duration": 265.874286,
+      "id": 46
+    },
+    {
+      "href": "http://sampleswap.org/mp3/artist/86004/xandalis_space-strings-160.mp3",
+      "artist": "xandalis: ",
+      "song": "space-strings",
+      "duration": 73.900408,
+      "id": 47
+    },
+    {
+      "href": "http://sampleswap.org/mp3/artist/86004/xandalis_space-strings-with-beat-160.mp3",
+      "artist": "xandalis: ",
+      "song": "space-strings-with-beat",
+      "duration": 147.748571,
+      "id": 48
+    },
+    {
+      "href": "http://sampleswap.org/mp3/artist/86004/xandalis_Last-thing-I-remember-160.mp3",
+      "artist": "xandalis: ",
+      "song": "Last-thing-I-remember",
+      "duration": 139.363265,
+      "id": 49
+    },
+    {
+      "href": "http://sampleswap.org/mp3/artist/86004/xandalis_Solar-Sailing-160.mp3",
+      "artist": "xandalis: ",
+      "song": "Solar-Sailing",
+      "duration": 122.462041,
+      "id": 50
+    },
+    {
+      "href": "http://sampleswap.org/mp3/artist/84839/allizwell_Sky-160.mp3",
+      "artist": "allizwell: ",
+      "song": "Sky",
+      "duration": 200.724898,
+      "id": 51
+    },
+    {
+      "href": "http://sampleswap.org/mp3/artist/84839/allizwell_Halloween-160.mp3",
+      "artist": "allizwell: ",
+      "song": "Halloween",
+      "duration": 241.763265,
+      "id": 52
+    },
+    {
+      "href": "http://sampleswap.org/mp3/artist/86004/xandalis_Solar-Sailing---Extended-160.mp3",
+      "artist": "xandalis: ",
+      "song": "Solar-Sailing---Extended",
+      "duration": 183.640816,
+      "id": 53
+    },
+    {
+      "href": "http://sampleswap.org/mp3/artist/86004/xandalis_Lunar-Dreams-160.mp3",
+      "artist": "xandalis: ",
+      "song": "Lunar-Dreams",
+      "duration": 268.852245,
+      "id": 54
+    },
+    {
+      "href": "http://sampleswap.org/mp3/artist/92040/Christopher-Bratlien_ruby-combinator-160.mp3",
+      "artist": "Christopher Bratlien: ",
+      "song": "ruby-combinator",
+      "duration": 45.662041,
+      "id": 55
+    },
+    {
+      "href": "http://sampleswap.org/mp3/artist/92040/Christopher-Bratlien_rollo-lead-lamb-160.mp3",
+      "artist": "Christopher Bratlien: ",
+      "song": "rollo-lead-lamb",
+      "duration": 547.265306,
+      "id": 56
+    },
+    {
+      "href": "http://sampleswap.org/mp3/artist/24308/DAB_Oh-Shit-160.mp3",
+      "artist": "DAB: ",
+      "song": "Oh-Shit",
+      "duration": 283.689796,
+      "id": 57
+    },
+    {
+      "href": "http://sampleswap.org/mp3/artist/92626/laviathin_piramid-160.mp3",
+      "artist": "laviathin: ",
+      "song": "piramid",
+      "duration": 383.529796,
+      "id": 58
+    },
+    {
+      "href": "http://sampleswap.org/mp3/artist/15785/robert-meyers_The-Magnificient-Escap-160.mp3",
+      "artist": "robert meyers: ",
+      "song": "The-Magnificient-Escap",
+      "duration": 483.474286,
+      "id": 59
+    },
+    {
+      "href": "http://sampleswap.org/mp3/artist/94411/Andrew45_Ambient-Ice-Scape-1-160.mp3",
+      "artist": "Andrew45: ",
+      "song": "Ambient-Ice-Scape-1",
+      "duration": 315.245714,
+      "id": 60
+    },
+    {
+      "href": "http://sampleswap.org/mp3/artist/97362/Stephen-Nicholas_After-The-Storm-160.mp3",
+      "artist": "Stephen Nicholas: ",
+      "song": "After-The-Storm",
+      "duration": 390.60898,
+      "id": 61
+    },
+    {
+      "href": "http://sampleswap.org/mp3/artist/97362/Stephen-Nicholas_Under-the-cover-of--160.mp3",
+      "artist": "Stephen Nicholas: ",
+      "song": "Under-the-cover-of-",
+      "duration": 598.824,
+      "id": 62
+    },
+    {
+      "href": "http://sampleswap.org/mp3/artist/97362/Stephen-Nicholas_The-Climb-160.mp3",
+      "artist": "Stephen Nicholas: ",
+      "song": "The-Climb",
+      "duration": 339.487347,
+      "id": 63
+    },
+    {
+      "href": "http://sampleswap.org/mp3/artist/105592/milligan_native-highs-160.mp3",
+      "artist": "milligan: ",
+      "song": "native-highs",
+      "duration": 253.570612,
+      "id": 64
+    },
+    {
+      "href": "http://sampleswap.org/mp3/artist/116339/John-marinelli_IBDN-160.mp3",
+      "artist": "John marinelli: ",
+      "song": "IBDN",
+      "duration": 189.387755,
+      "id": 65
+    },
+    {
+      "href": "http://sampleswap.org/mp3/artist/116431/Digital-Silhouette_I-Can-See-The-Sky-160.mp3",
+      "artist": "Digital Silhouette: ",
+      "song": "I-Can-See-The-Sky",
+      "duration": 17.81551,
+      "id": 66
+    },
+    {
+      "href": "http://sampleswap.org/mp3/artist/116431/Digital-Silhouette_Login-160.mp3",
+      "artist": "Digital Silhouette: ",
+      "song": "Login",
+      "duration": 138.057143,
+      "id": 67
+    },
+    {
+      "href": "http://sampleswap.org/mp3/artist/116431/Digital-Silhouette_Under-The-Microsc-160.mp3",
+      "artist": "Digital Silhouette: ",
+      "song": "Under-The-Microsc",
+      "duration": 288.052245,
+      "id": 68
+    },
+    {
+      "href": "http://sampleswap.org/mp3/artist/47459/tylersrevenge_untitled-160.mp3",
+      "artist": "tylersrevenge: ",
+      "song": "untitled",
+      "duration": 269.740408,
+      "id": 69
+    },
+    {
+      "href": "http://sampleswap.org/mp3/artist/117331/Prevader_Swimming-with-whales-160.mp3",
+      "artist": "Prevader: ",
+      "song": "Swimming-with-whales",
+      "duration": 421.694694,
+      "id": 70
+    },
+    {
+      "href": "http://sampleswap.org/mp3/artist/116473/jacobboyle_more-the-same-160.mp3",
+      "artist": "jacobboyle: ",
+      "song": "more-the-same",
+      "duration": 199.340408,
+      "id": 71
+    },
+    {
+      "href": "http://sampleswap.org/mp3/artist/117874/ryangrusscom_99FrameDrum-160.mp3",
+      "artist": "ryangruss.com: ",
+      "song": "99FrameDrum",
+      "duration": 2.472,
+      "id": 72
+    },
+    {
+      "href": "http://sampleswap.org/mp3/artist/120792/afishman15_Bike-Horn-AIFF-160.mp3",
+      "artist": "afishman15: ",
+      "song": "Bike-Horn-AIFF",
+      "duration": 4.806531,
+      "id": 73
+    },
+    {
+      "href": "http://sampleswap.org/mp3/artist/4233/Chuck-Parsons_12-11-09-160.mp3",
+      "artist": "Chuck Parsons: ",
+      "song": "12-11-09",
+      "duration": 229.851429,
+      "id": 74
+    },
+    {
+      "href": "http://sampleswap.org/mp3/artist/121886/mikepemby_my-electric-soul-160.mp3",
+      "artist": "mikepemby: ",
+      "song": "my-electric-soul",
+      "duration": 181.446531,
+      "id": 75
+    },
+    {
+      "href": "http://sampleswap.org/mp3/artist/124295/skoaty_High-rise-Dreamer-160.mp3",
+      "artist": "skoaty: ",
+      "song": "High-rise-Dreamer",
+      "duration": 264.672653,
+      "id": 76
+    },
+    {
+      "href": "http://sampleswap.org/mp3/artist/125027/lugosisdead_My-Song-16-3-160.mp3",
+      "artist": "lugosisdead: ",
+      "song": "My-Song-16-3",
+      "duration": 175.046531,
+      "id": 77
+    },
+    {
+      "href": "http://sampleswap.org/mp3/artist/125027/lugosisdead_boomdeada-160.mp3",
+      "artist": "lugosisdead: ",
+      "song": "boomdeada",
+      "duration": 54.047347,
+      "id": 78
+    },
+    {
+      "href": "http://sampleswap.org/mp3/artist/125027/lugosisdead_beaty-160.mp3",
+      "artist": "lugosisdead: ",
+      "song": "beaty",
+      "duration": 84.088163,
+      "id": 79
+    },
+    {
+      "href": "http://sampleswap.org/mp3/artist/125027/lugosisdead_playingaround-160.mp3",
+      "artist": "lugosisdead: ",
+      "song": "playingaround",
+      "duration": 54.047347,
+      "id": 80
+    },
+    {
+      "href": "http://sampleswap.org/mp3/artist/125027/lugosisdead_remembrance-160.mp3",
+      "artist": "lugosisdead: ",
+      "song": "remembrance",
+      "duration": 76.042449,
+      "id": 81
+    },
+    {
+      "href": "http://sampleswap.org/mp3/artist/125027/lugosisdead_playingaround2-160.mp3",
+      "artist": "lugosisdead: ",
+      "song": "playingaround2",
+      "duration": 32.052245,
+      "id": 82
+    },
+    {
+      "href": "http://sampleswap.org/mp3/artist/129115/Orb-Gettarr_Neptune-Sky-160.mp3",
+      "artist": "Orb Gettarr: ",
+      "song": "Neptune-Sky",
+      "duration": 228.754286,
+      "id": 83
+    },
+    {
+      "href": "http://sampleswap.org/mp3/artist/129115/Orb-Gettarr_Arcos-2--Time-Plane-Inte-160.mp3",
+      "artist": "Orb Gettarr: ",
+      "song": "Arcos-2--Time-Plane-Inte",
+      "duration": 304.091429,
+      "id": 84
+    },
+    {
+      "href": "http://sampleswap.org/mp3/artist/129115/Orb-Gettarr_Astrognome-160.mp3",
+      "artist": "Orb Gettarr: ",
+      "song": "Astrognome",
+      "duration": 286.82449,
+      "id": 85
+    },
+    {
+      "href": "http://sampleswap.org/mp3/artist/129115/Orb-Gettarr_Black-Sky--Nostromo--Eni-160.mp3",
+      "artist": "Orb Gettarr: ",
+      "song": "Black-Sky--Nostromo--Eni",
+      "duration": 378.357551,
+      "id": 86
+    },
+    {
+      "href": "http://sampleswap.org/mp3/artist/97362/Stephen-Nicholas_Two-Spaces-160.mp3",
+      "artist": "Stephen Nicholas: ",
+      "song": "Two-Spaces",
+      "duration": 320.783673,
+      "id": 87
+    },
+    {
+      "href": "http://sampleswap.org/mp3/artist/129172/Harry-Krishna_Hypnagogia-160.mp3",
+      "artist": "Harry Krishna: ",
+      "song": "Hypnagogia",
+      "duration": 180.792,
+      "id": 88
+    },
+    {
+      "href": "http://sampleswap.org/mp3/artist/3603/Slyde_Sumthang-160.mp3",
+      "artist": "Slyde: ",
+      "song": "Sumthang",
+      "duration": 315.062857,
+      "id": 89
+    },
+    {
+      "href": "http://sampleswap.org/mp3/artist/111821/ExoSphere64_IsotopeSunset-160.mp3",
+      "artist": "ExoSphere64: ",
+      "song": "IsotopeSunset",
+      "duration": 244.58449,
+      "id": 90
+    },
+    {
+      "href": "http://sampleswap.org/mp3/artist/139395/conesto412_Float-160.mp3",
+      "artist": "conesto412: ",
+      "song": "Float",
+      "duration": 43.833469,
+      "id": 91
+    },
+    {
+      "href": "http://sampleswap.org/mp3/artist/139395/conesto412_strangest-places-160.mp3",
+      "artist": "conesto412: ",
+      "song": "strangest-places",
+      "duration": 44.512653,
+      "id": 92
+    },
+    {
+      "href": "http://sampleswap.org/mp3/artist/139395/conesto412_strangest-places-160.mp3",
+      "artist": "conesto412: ",
+      "song": "strangest-places",
+      "duration": 44.512653,
+      "id": 93
+    },
+    {
+      "href": "http://sampleswap.org/mp3/artist/92760/CJ_Sweet-Sadness-160.mp3",
+      "artist": "CJ: ",
+      "song": "Sweet-Sadness",
+      "duration": 392.777143,
+      "id": 94
+    },
+    {
+      "href": "http://sampleswap.org/mp3/artist/92760/CJ_Visions-of-the-Future-Drone-Zone--160.mp3",
+      "artist": "CJ: ",
+      "song": "Visions-of-the-Future-Drone-Zone-",
+      "duration": 397.061224,
+      "id": 95
+    },
+    {
+      "href": "http://sampleswap.org/mp3/artist/92760/CJ_When-Darkness-takes-the-Day-160.mp3",
+      "artist": "CJ: ",
+      "song": "When-Darkness-takes-the-Day",
+      "duration": 329.822041,
+      "id": 96
+    },
+    {
+      "href": "http://sampleswap.org/mp3/artist/143479/emilsir_test-160.mp3",
+      "artist": "emilsir: ",
+      "song": "test",
+      "duration": 20.166531,
+      "id": 97
+    },
+    {
+      "href": "http://sampleswap.org/mp3/artist/92760/CJ_9-11-Severe-Trauma-160.mp3",
+      "artist": "CJ: ",
+      "song": "9-11-Severe-Trauma",
+      "duration": 360.228571,
+      "id": 98
+    }
+  ]
+}
