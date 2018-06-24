@@ -22,7 +22,7 @@ class Home extends PureComponent {
         volume: 1,
         searchFor: ''
     }
-   
+
     componentWillMount() {
         this.props.dispatch(getMusic())
     }
@@ -116,9 +116,6 @@ class Home extends PureComponent {
     onEndedHandler = (current,indicator) => {
         const arr = this.props.music.musicList;
         if (arr.length === 1) {
-            this.setState({
-                playing: true
-            });
             this.mPlayer.current.currentTime = 0;
             this.mPlayer.current.play();
         }
@@ -163,7 +160,8 @@ class Home extends PureComponent {
             e.preventDefault()
             this.mPlayer.current.pause();
             this.setState({
-                active:true
+                active:true,
+                playing:false
             });
             var x = e.pageX - this.progress.current.offsetLeft;
             var clickedValue = x * this.progress.current.max / this.progress.current.offsetWidth;
@@ -179,7 +177,8 @@ class Home extends PureComponent {
             e.preventDefault()
             this.mPlayer.current.play();
             this.setState({
-                active:false
+                active:false,
+                playing:true
             });
             var x = e.pageX - this.progress.current.offsetLeft;
             var clickedValue = x * this.progress.current.max / this.progress.current.offsetWidth;
@@ -191,9 +190,10 @@ class Home extends PureComponent {
     }
 
     onMouseLeaveHandler = () => {
-        if(this.state.src){
+        if(this.state.src && this.state.active){
             this.setState({
-                active:false
+                active:false,
+                playing:true
             });
             this.mPlayer.current.play();
         }
